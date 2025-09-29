@@ -84,12 +84,13 @@
 <p><span style="font-weight: 400;">The “Taxi Squad” is a place to store a maximum of 4 players that do not count against your active roster total for any given season. There will be 4 spots open for Taxi Squad players.  Up to 4 players may be placed on the Taxi Squad  at the beginning of the season (by the roster cut-down date).  </span></p>
 <p><span style="font-weight: 400;">These players will be “frozen” on your roster until a time when they are promoted. These players can be any skill position (QB,WR,RB,TE) and they are not required to be a rookie to qualify.</span></p>
 <p> </p>
-<p><span style="font-weight: 400;"><b>4.2(a) Tax Squad Promotions</b></span></p>
+<p><span style="font-weight: 400;"><b>4.2(a) Taxi Squad Promotions</b></span></p>
 <li><span style="font-weight: 400;">During the season each team (owner) is allowed to promote one (1) player from their taxi squad to their active roster assuming that they have the available roster space to promote the player.</span></li>
 <ul>
     <li><span style="font-weight: 400;">This is a one way tansaction and no other player can be demoted to the taxi squad.</span></li>
     <li><span style="font-weight: 400;"> This does not allow for moving someone from the active roster to the taxi squad to replace that empty taxi squad roster spot.</span></li>
-    <li><span style="font-weight: 400;">Tax Squad Promotions can be completed up until the kickoff of the first week 8 game.</span></li>
+    <li><span style="font-weight: 400;">Taxi Squad Promotions can be completed up until the kickoff of the first week 8 game.</span></li>
+    <li><span style="font-weight: 400;">A player on the Taxi Squad MUST be promoted before they are eligible to be traded.  Any team that does not follow this rule will have the the trade reversed and will need to re-process the trade when roster requirements are met.</span></li>
 </ul>
 <li><span style="font-weight: 400;">Initial Promotions</span></li>
     <ul>
@@ -97,7 +98,7 @@
     </ul>
 <li><span style="font-weight: 400;">Additional Promotions (2-4)</span>   
     <ul>
-        <li><span style="font-weight: 400;">Any promotion of a Taxi Squad player past the initail promotion will cost a fee of $ Blind Bid dollars against a teams Blind Bid Budget.</span></li>
+        <li><span style="font-weight: 400;">Any promotion of a Taxi Squad player past the initail promotion will cost a fee of $100 Blind Bid dollars against a teams Blind Bid Budget for the current season.</span></li>
         <li><span style="font-weight: 400;"> If a team does not have the available funds they will need to trade for additional funds from another team or not promote. </span></li>
     </ul>
 <li><span style="font-weight: 400;"><b>How to Promote</b></span></li>  
@@ -151,7 +152,7 @@
 <p><span style="font-weight: 400;">Legal starting formations changed from a preset list to a larger set in 2016 due to a change  in the rules that forced each team to start a RB each week.  With this change the rules for starting formations relaxed but force each team to start a QB,RB,K,DEF,ST.  WR and TE have optional starting requirements based on the positions that are required.</span></p>
 <p> </p>
 <p><span style="font-weight: 400;"><h2>5. Scoring</h2></span></p>
-<p><span style="font-weight: 400;"><b>5.1 Scoring Rules:</b> can be found on this page: <url>https://www45.myfantasyleague.com/2025/options?L=43692&O=09</url></span>
+<p><span style="font-weight: 400;"><b>5.1 Scoring Rules:</b> can be found on this page: <url>https://sleeper.com/leagues/1260612083276320768/league</url></span>
 <!-- <p><span style="font-weight: 400;">5.1 QB/RB/WR/TE/K</span></p>
 <p> </p>
 <table>
@@ -1602,12 +1603,28 @@
 </ul>
 <p><span style="font-weight: 400;"><b>2025</b></span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;"></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;"></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;"></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;"></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;"></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;"></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">None Passed, although the league switched websites from MyfantasyLeague to Sleeper. </span></li>
 </ul>
 <p><span style="font-weight: 400;"></span></p>
 <p> </p>
+<p><span style="font-weight: 400;"><h2>15. Previous League Sites</h2></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2008:<url>https://www42.myfantasyleague.com/2008/home/26830</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2009:<url>https://www49.myfantasyleague.com/2009/home/43672</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2010:<url>https://www42.myfantasyleague.com/2010/home/14923</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2011:<url>https://www42.myfantasyleague.com/2011/home/32807</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2012:<url>https://www42.myfantasyleague.com/2012/home/30618</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2013:<url>https://www42.myfantasyleague.com/2013/home/20806</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2014:<url>https://www42.myfantasyleague.com/2014/home/14311</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2015:<url>https://www42.myfantasyleague.com/2015/home/41944</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2016:<url>https://www42.myfantasyleague.com/2016/home/43692</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2017:<url>https://www42.myfantasyleague.com/2017/home/43692</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2018:<url>https://www42.myfantasyleague.com/2018/home/43692</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2019:<url>https://www42.myfantasyleague.com/2019/home/43692</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020:<url>https://www42.myfantasyleague.com/2020/home/43692</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2021:<url>https://www42.myfantasyleague.com/2021/home/43692</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2022:<url>https://www42.myfantasyleague.com/2022/home/43692</url></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2023:<url>https://www42.myfantasyleague.com/2023/home/43692</url></span></li> 
+<li style="font-weight: 400;"><span style="font-weight: 400;">2024:<url>https://www42.myfantasyleague.com/2024/home/43692</url></span></li> 
+<li style="font-weight: 400;"><span style="font-weight: 400;">2025:<url>https://sleeper.com/leagues/1260612083276320768/league</url></span></li> 
+</ul>
