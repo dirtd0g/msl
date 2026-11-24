@@ -89,7 +89,7 @@
 <ul>
     <li><span style="font-weight: 400;">This is a one way tansaction and no other player can be demoted to the taxi squad.</span></li>
     <li><span style="font-weight: 400;"> This does not allow for moving someone from the active roster to the taxi squad to replace that empty taxi squad roster spot.</span></li>
-    <li><span style="font-weight: 400;">Taxi Squad Promotions can be completed up until the kickoff of the first week 8 game.</span></li>
+    <li><span style="font-weight: 400;"><s>Taxi Squad Promotions can be completed up until the kickoff of the first week 8 game.</s> Due to the way Sleeper handles Taxi squad functionality there aren't controls in place to properly manage the taxi squad fairly. Until that changes the deadline will be start of the regular season.</span></li>
     <li><span style="font-weight: 400;">A player on the Taxi Squad MUST be promoted before they are eligible to be traded.  Any team that does not follow this rule will have the the trade reversed and will need to re-process the trade when roster requirements are met.</span></li>
 </ul>
 <li><span style="font-weight: 400;">Initial Promotions</span></li>
